@@ -1,5 +1,5 @@
 import { React, useState } from "react";
-import logoNav from "../assets/logo/logo.png";
+import logoNav from "../assets/logo/Logo.png";
 import menu from "../assets/logo/menu.svg";
 import { HiMenuAlt2 } from "react-icons/hi";
 function OneHeader() {
