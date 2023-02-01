@@ -108,7 +108,7 @@ function OneHero() {
               </div>
               <div className="max-w-[832px] mt-16 tx:mt-4 xs:mt-8 xs2:mt-0">
                 <div className="grid grid-cols-1 w-full">
-                  <div className="flex items-center  w-[315px] xs:w-[340px] xs2:w-[390px] md:w-[480px] h-full ">
+                  <div className="flex items-center  w-[315px] tx:w-[390px] xs:w-[340px] xs2:w-[390px] md:w-[480px] h-full ">
                     <div className="w-[90%] xs:w-full relative">
                       {menusearch.map(({ id, name, img }) => (
                         <div className="relative">
