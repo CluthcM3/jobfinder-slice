@@ -84,9 +84,9 @@ function OneHero() {
         <div className="w-full md:hidden flex flex-row">
           <div className="lg:w-1/2 w-full lg:block  h-[776px]  md:pl-16">
             {/* kosong */}
-            <div className="w-full h-[60px] lg:block hidden" />
+            <div className="w-full h-[20px] lg:block hidden" />
             {/* kosong */}
-            <div className="mx-3 mt-6 flex h-[556px]  items-start flex-col ">
+            <div className="mx-3 mt-24 flex h-[556px]  items-start flex-col ">
               <div className=" max-w-[175px] py-2 px-4 bg-[#f6f6f6] flex justify-center items-center rounded-full">
                 <p className="text-sm font-redhatregular">
                   2885 Open Positions
