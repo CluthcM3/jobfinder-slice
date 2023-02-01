@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "RedHatDisplayBold";
+  src: url("./assets/css/RedHatDisplay-Bold.ttf") format("truetype");
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "RedHatDisplayBoldItalic";
+  src: url("./assets/css/RedHatDisplay-BoldItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "RedHatDisplayMedium";
+  src: url("./assets/css/RedHatDisplay-Medium.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "RedHatDisplayBoldRegular";
+  src: url("./assets/css/RedHatDisplay-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
